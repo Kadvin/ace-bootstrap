@@ -13,7 +13,6 @@
   ],
   "license": "MIT",
   "homepage": "http://dev.itsnow.com/ace-bootstrap",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
